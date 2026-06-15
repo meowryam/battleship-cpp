@@ -4,6 +4,8 @@ A console-based Battleship game built in C++ as a programming fundamentals
 project. Supports Player vs Player and Player vs Computer modes, with 
 color-coded boards and a persistent leaderboard.
 
+![Gameplay Screenshot](ScreenShot.png)
+
 ## Features
 -  Player vs Player (pass-and-play) and Player vs Computer modes
 -  Color-coded ships and hit/miss indicators
