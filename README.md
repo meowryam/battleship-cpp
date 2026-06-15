@@ -31,7 +31,7 @@ color-coded boards and a persistent leaderboard.
 - C++ (console, Windows)
 - Windows.h for colors
 - File I/O for leaderboard persistence
-- 
+  
 ## How to Compile
 1. Clone the repo
 2. Open Visual Studio → New Empty C++ Project
@@ -41,5 +41,5 @@ color-coded boards and a persistent leaderboard.
 > Note: Windows only (uses Windows.h and conio.h)
 
 ## Authors
-- [meowryam](https://github.com/meowryam)
-- Rayyan Shah
+- [Maryam Yousaf](https://github.com/meowryam)
+
